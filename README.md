@@ -102,7 +102,7 @@ Feel free to fork this repo and submit a pull request 🚀
 📬 Contact Me
 📧 Email: kashyapji667@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/sahil-kashyap-19aab8329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-🐙 GitHub: your-github-profile
+🐙 GitHub: https://github.com/sahilkashyap24
 
 ⭐ Show Your Support
 If you like this project, give it a star ⭐
