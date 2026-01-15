@@ -100,8 +100,8 @@ Contributions are welcome!
 Feel free to fork this repo and submit a pull request 🚀
 
 📬 Contact Me
-📧 Email: your-email@example.com
-💼 LinkedIn: your-linkedin-profile
+📧 Email: kashyapji667@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sahil-kashyap-19aab8329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🐙 GitHub: your-github-profile
 
 ⭐ Show Your Support
