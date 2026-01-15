@@ -1,11 +1,6 @@
 🌐 Personal Portfolio Website
 ✨ A modern, responsive, and visually appealing personal portfolio website to showcase my skills, projects, and achievements.
 
-🚀 Live Demo
-🔗 Visit My Portfolio:
-  
-  
-  http://127.0.0.1:5500/
 
 
 
